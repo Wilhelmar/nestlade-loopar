@@ -75,7 +75,7 @@ namespace nestlade_loopar
 
             Console.ReadLine();
 
-            //Övning 4
+            //Övning 3 baklänges
 
             Console.WriteLine("Övning 4");
 
